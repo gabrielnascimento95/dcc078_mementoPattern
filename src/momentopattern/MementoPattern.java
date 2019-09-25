@@ -12,7 +12,7 @@ import java.util.Iterator;
  *
  * @author gabri
  */
-public class MomentoPattern {
+public class MementoPattern {
 
     /**
      * @param args the command line arguments
